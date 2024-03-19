@@ -1,0 +1,10 @@
+service : {
+  getListed: () -> (vec principal) query;
+  getNFTs: (principal) -> (vec principal) query;
+  getOriginalowner: (principal) -> (principal) query;
+  getOriginalprice: (principal) -> (nat) query;
+  getopedID: () -> (principal) query;
+  isListed: (principal) -> (bool) query;
+  listItem: (principal, nat) -> (text);
+  mint: (vec nat8, text) -> (principal);
+}
