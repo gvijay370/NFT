@@ -1,3 +1,11 @@
+Sample screenshots of developed WEB3 APP.
+![Screenshot (186)](https://github.com/gvijay370/NFT/assets/26817521/8236b93b-d352-4b36-8cbf-a7b55c8ba365)
+![Screenshot (184)](https://github.com/gvijay370/NFT/assets/26817521/56d51cde-1540-4572-a590-aa097c964bdc)
+![Screenshot (182)](https://github.com/gvijay370/NFT/assets/26817521/64402dea-9262-4a7b-af5a-3c881eee839f)
+![Screenshot (180)](https://github.com/gvijay370/NFT/assets/26817521/60c33bc5-0ab7-485f-ac9e-4568b94cd302)
+![Screenshot (179)](https://github.com/gvijay370/NFT/assets/26817521/1c781bf7-138e-4b9f-9ead-2b15e25e7cd4)
+![Screenshot (178)](https://github.com/gvijay370/NFT/assets/26817521/75baf5f4-49a2-478e-9fbe-53d61592bb03)
+![Screenshot (177)](https://github.com/gvijay370/NFT/assets/26817521/e01592a9-ddb7-4282-972f-871e70f4e46a)
 
 # To Install and Run the Project
 
